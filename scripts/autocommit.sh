@@ -34,7 +34,7 @@ fluidd_folder=~/fluidd
 ### By default that is 'main'
 branch=backup
 
-db_file=~/printer_data/database/moonraker-sql.db
+db_file=~/printer_data/scripts/moonraker-sql.db
 
 #####################################################################
 #####################################################################
